@@ -1,7 +1,7 @@
 {
   "name": "atom-scalariform",
   "main": "./lib/atom-scalariform",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Uses scalariform to format scala files",
   "keywords": [
     "scala",
