@@ -5,7 +5,7 @@ Allows formatting of scala files using scalariform.
 You can configure the properties file to be used in your atom config:
 
 scalariform:
-  propertiesFile: "/Users/jackh/test.properties"
+  propertiesFile: "path/to/scalariform.properties"
 
 To format a .scala file, first save it then you can run the formatter by pressing:
 
