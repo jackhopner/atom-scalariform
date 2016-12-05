@@ -2,9 +2,9 @@
 
 Allows formatting of [Scala](https://github.com/scala/scala) files using [scalariform](https://github.com/scala-ide/scalariform). It also supports [Ammonite](https://github.com/lihaoyi/Ammonite) scripts.
 
-You can configure the `scalariform` properties file to be used in your Atom config:
+You can configure the `atom-scalariform` properties file to be used in your Atom config:
 ```
-scalariform:
+"atom-scalariform":
   propertiesFile: "/path/to/scalariform.properties"
 ```
 
